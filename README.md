@@ -1,5 +1,5 @@
 # Employee Management System
-A simple C++ program for manage=ing employee!
+A simple C++ program for managing employee!
 
 Features: 
 1. Add Employee with Details such as Name, Age, ID, Designation, Salary
