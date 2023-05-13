@@ -1,4 +1,4 @@
-# employee-management-system
+# Employee Management System
 A simple C++ program for manage=ing employee!
 
 Features: 
